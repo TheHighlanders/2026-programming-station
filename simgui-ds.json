@@ -1,0 +1,64 @@
+{
+  "FMS": {
+    "window": {
+      "visible": false
+    }
+  },
+  "keyboardJoysticks": [
+    {
+      "axisCount": 0,
+      "buttonCount": 4,
+      "buttonKeys": [
+        87,
+        65,
+        83,
+        68
+      ],
+      "povCount": 0
+    },
+    {
+      "axisConfig": [
+        {
+          "decKey": 74,
+          "incKey": 76
+        },
+        {
+          "decKey": 73,
+          "incKey": 75
+        }
+      ],
+      "axisCount": 0,
+      "buttonCount": 4,
+      "buttonKeys": [
+        265,
+        263,
+        264,
+        262
+      ],
+      "povCount": 0
+    },
+    {
+      "axisCount": 2,
+      "buttonCount": 6,
+      "buttonKeys": [
+        260,
+        268,
+        266,
+        261,
+        269,
+        267
+      ],
+      "povCount": 0
+    },
+    {
+      "axisCount": 0,
+      "buttonCount": 0,
+      "povCount": 0
+    }
+  ],
+  "robotJoysticks": [
+    {
+      "guid": "Keyboard0"
+    }
+  ]
+}
